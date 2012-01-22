@@ -1,0 +1,13 @@
+dumbfixed - Allows selected element to stay visible with vertical scroll but within the confines of its parent container.
+Ideal for ecommerce cart total indicators or status indicators on long scrolling pages.
+
+options:
+$(selector).dumbfixed({ 
+   topSpace : 10 // default spacing from viewport top edge in pixels
+});
+
+Copyright 2012, Jason Sebring, Emerald Code Inc. www.emeraldcode.com
+Dual licensed under the MIT or GPL Version 2 licenses.
+
+depends on: 
+jQuery : tested in version 1.7.1
