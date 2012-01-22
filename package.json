@@ -1,0 +1,38 @@
+{
+    "name": "dumbFixed",
+    "version": "1.0",
+    "title": "dumbFixed",
+    "author": {
+        "name": "Jason Sebring",
+        "url": "https://github.com/sebringj"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "MIT-LICENSE.txt"
+        },
+        {
+            "type": "GPLv2",
+            "url": "GPL-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": "1"
+    },
+    "description": "Fixes an element at top of page but within the confines of its parent, perfect for eCommerce and long scrolling pages",
+    "keywords": [
+        "ecommerce",
+        "floater",
+		"status"
+    ],
+    "homepage": "https://github.com/sebringj/dumbfix,
+    "maintainers": [
+        {
+            "name": "Jason Sebring",
+            "url": "https://github.com/sebringj"
+        }
+    ],
+    "files": [
+        "jquery.dumbfix.js"
+    ]
+}
